@@ -1,28 +1,37 @@
 header {
-    display: flex;
-    justify-content: center;
     align-items: center;
     background: #E6E6E6;
-}
+    display: flex;
+    justify-content: center;
+    }
 h1 {
-    color: #005677;
     background: #C4C4C4;
+    color: #005677;
+    font-size: 35px;
+    line-height: 30px;
+    line-height: 84.69%;
+    text-align: center;
 }
 h2 {
-    color: #005677;
     background: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    line-height: 17px;
+    line-height: 84.69%;
 }
 .b {
     font-weight: bold;
+    font-size: 15px;
+    line-height: 13px;
 }
 #i {
     font-style: italic;
 }
 footer {
-    display: flex;
-    background: #005677;
-    justify-content: center;
     align-items: center;
+    background: #005677;
+    color: #FFFFFF;
+    display: flex;
     font-weight: bold;
-    color: #FFFFFF
-}
+    justify-content: center;
+    }
